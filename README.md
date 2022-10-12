@@ -1,6 +1,6 @@
 [![sensores.jpg](https://i.postimg.cc/L6wBTd77/sensores.jpg)](https://postimg.cc/mt3HLnTN)
 
-# Practica de Semana 4 (Grupo 3)
+# Practica de Semana 6 (Grupo 3)
 
 __Repositorio de practica de la cuarta semana de la materia Sensores y Actuadores__
 

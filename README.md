@@ -11,6 +11,8 @@ __Repositorio de practica de la sexta semana de la materia Sensores y Actuadores
 + [Lionel Rios](https://github.com/RiosLionel)
 + [Oscar Gazzola](https://github.com/OscarAGazzola)
 + [Jeremias Castro](https://github.com/Jerec4stro)
++ [Daniel Rodriguez](https://github.com/danydeitu)
+
 
 
 ## Estructura del repositorio:

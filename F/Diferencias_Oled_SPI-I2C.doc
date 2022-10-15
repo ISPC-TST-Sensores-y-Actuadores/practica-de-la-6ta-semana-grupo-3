@@ -1,0 +1,6 @@
+F) Cual es la diferencias entre oled spi y oled i2c.
+
+La diferencia del tipo de interface entre el spi y oled i2c se distinguen generalmente, por el número de pines. Las 
+que incluyen interface I2C tienen 4 pines, otras con 7 pines implementan tanto SPI como 
+I2C. La comunicación SPI es más rápida que la I2C, por tanto debemos dar preferencia a este 
+tipo de conexión si necesitamos gráficos en movimiento.

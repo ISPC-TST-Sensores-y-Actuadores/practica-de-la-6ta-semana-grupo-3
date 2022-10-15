@@ -1,0 +1,10 @@
+F) Que tecnologias se podria utilizar para hacer una pantalla gigante tactil.(SAW)
+
+Las tecnologias que se podria utilizar para este tipo de pantallas, son las ondas acústicas que no se transmiten de forma continua, 
+sino por trenes de impulsos. 
+Dos detectores reciben las ondas, uno por cada eje. Se conoce el tiempo de propagación de cada onda acústica en cada trayecto. 
+Cuando el usuario toca con su dedo en la superficie de la pantalla, el dedo absorbe una parte de la potencia acústica, 
+atenuando la energía de la onda. El circuito controlador mide el momento en que recibe una onda atenuada y determina las coordenadas 
+del punto de contacto.
+Además de las coordenadas X e Y, la tecnología SAW es capaz de detectar el eje Z, la profundidad, o la presión aproximada 
+que se ha ejercido con el dedo, puesto que la atenuación será mayor cuanta más presión se ejerza.
